@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-5e949567cc3676d5262a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "UniversidadeDepartamentoQt",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "UniversidadeDepartamentoQt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UniversidadeDepartamentoQt-Debug-25d0e6eb763cb5706876.json",
+					"name" : "UniversidadeDepartamentoQt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "UniversidadeDepartamentoQt_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UniversidadeDepartamentoQt_autogen-Debug-a3ec97904bda8d600107.json",
+					"name" : "UniversidadeDepartamentoQt_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "UniversidadeDepartamentoQt_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-UniversidadeDepartamentoQt_autogen_timestamp_deps-Debug-a0a5b82253d0b1233d25.json",
+					"name" : "UniversidadeDepartamentoQt_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/danza/OneDrive/Pictures/Documents/UniversidadeDepartamentoQt/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/danza/OneDrive/Pictures/Documents/UniversidadeDepartamentoQt"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
