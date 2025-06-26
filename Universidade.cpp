@@ -1,9 +1,9 @@
 #include "Universidade.h"
 
 Universidade::Universidade(int idd, const char* n):
-    ObjLDepartamentos(),
+    nome(n),
     id(idd),
-    nome(n)
+    ObjLDepartamentos()
 {
 }
 
